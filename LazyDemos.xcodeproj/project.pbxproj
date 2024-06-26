@@ -44,6 +44,7 @@
 		91335D962C2B9DE4006B91BC /* LazyDemosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LazyDemosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91335D9A2C2B9DE4006B91BC /* LazyDemosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyDemosUITests.swift; sourceTree = "<group>"; };
 		91335D9C2C2B9DE4006B91BC /* LazyDemosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyDemosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		91335DA92C2BA943006B91BC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +97,7 @@
 			children = (
 				91335D7F2C2B9DE3006B91BC /* LazyDemosApp.swift */,
 				91335D812C2B9DE3006B91BC /* ContentView.swift */,
+				91335DA92C2BA943006B91BC /* README.md */,
 				91335D832C2B9DE4006B91BC /* Assets.xcassets */,
 				91335D852C2B9DE4006B91BC /* Preview Content */,
 			);
